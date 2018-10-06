@@ -1,0 +1,13 @@
+{
+  "name": "volume",
+  "version": "1.0.0",
+  "description": "Get volume from microphone",
+  "main": "index.js",
+  "repository": "https://github.com/OddDev/volume.git",
+  "author": "Kai Klostermann <kai_klostermann@elitemail.org>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
